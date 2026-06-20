@@ -3,9 +3,9 @@
 ## Team Members
 | GitHub Username | Full Name |
 |---|---|
-| kerenv | Keren [Last Name] |
-| shirat | Shira [Last Name] |
-| ofeko  | Ofek [Last Name] |
+| kerenv | Keren Vinogradov |
+| shirat | Shira Tal |
+| ofeko  | Ofek Osher |
 
 ## Scripts Overview
 
